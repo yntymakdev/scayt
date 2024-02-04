@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #1f1d2b;
+  font-family: "Roboto", sans-serif;
+}
+.container {
+  margin: 0 auto;
+  max-width: 1140px;
+}
+.text h4 {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0px;
+  color: #fff;
+
+  text-align: left;
+  width: 118px;
+  height: 20px;
+  top: 38px;
+  left: 32px;
+}
+.input {
+  width: 625px;
+  height: 40px;
+  top: 28px;
+  left: 282px;
+  border-radius: 10px;
+}
+.input input {
+  background: #808191;
+  padding: 9px;
+  padding-right: 300px;
+  border-radius: 12px;
+  margin-left: 110px;
+}
+input::placeholder {
+  color: white;
+  margin-right: 100px;
+}
+.text {
+  display: flex;
+  align-items: center;
+}
+.header {
+  display: flex;
+}
+p {
+  color: white;
+}
+.avaa {
+  display: flex;
+  align-items: center;
+  margin-left: 260px;
+}
+.section {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.footer {
+  margin-top: -460px;
+  margin-left: 300px;
+}
+.ter {
+  /* width: 660px;
+  height: 300px;
+  background-color: #27adbb;
+  border-radius: 20px;
+  margin-left: -100px; */
+}
+
+.knoplka {
+  background-color: lawngreen;
+  width: 90px;
+  margin-top: 100px;
+  margin-left: -300px;
+  height: 40px;
+  border-radius: 300px;
+}
+.ter_text h1 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 800;
+  margin-left: 50px;
+  line-height: 36px;
+  padding-top: 40px;
+  letter-spacing: 0.30000001192092896px;
+  text-align: left;
+}
+.ter_text img {
+  margin-left: 35px;
+}
+.im {
+  margin-left: -140px;
+}
+.ter_text {
+  position: relative;
+  top: -350px;
+}
+.ter {
+}
+.er img {
+  position: relative;
+  top: -660px;
+  margin-left: 600px;
+}
+#footer {
+}
+.foter {
+  margin-top: -640px;
+  margin-left: 160px;
+}
+.im {
+  gap: 20px;
+}
+.i {
+  margin-left: 140px;
+  gap: 20px;
+}
+h3 {
+  color: #353340;
+}
+.solid {
+  border: solid 1px #353340;
+}
+.a {
+  margin-left: 10px;
+}
